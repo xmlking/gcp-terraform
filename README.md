@@ -55,8 +55,7 @@ Here are actions you may want to do once your GKE clusters are deployed to help 
 - [Credential rotation](https://cloud.google.com/kubernetes-engine/docs/how-to/credential-rotation)
 - [Configure Security Context](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
 - [Harden workload isolation with GKE Sandbox](https://cloud.google.com/kubernetes-engine/docs/how-to/sandbox-pods)
-- + Cloud Armor (DDOS + WAF) - FIXME
-- + Service Mesh - FIXME
+- Cloud Armor (DDOS + WAF) - FIXME
 
 Complementary resources:
 - [The Unofficial Google Kubernetes Engine (GKE) Security Guide](https://gkesecurity.guide/)
